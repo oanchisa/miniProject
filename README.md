@@ -13,5 +13,6 @@ cd miniProject
 ## วิธีการรัน
 
 ```bash
-html clock.html
+- เปิด VScode แล้วดับเบิ้ลคลิกที่ไฟล์ clock.html
+- ทำการรันโค้ด
 ```
